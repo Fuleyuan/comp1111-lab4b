@@ -1,3 +1,6 @@
 apple
 orange
 strawberry
+banana
+cherry
+peach
