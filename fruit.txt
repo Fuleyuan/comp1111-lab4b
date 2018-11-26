@@ -1,6 +1,6 @@
 apple
 orange
 strawberry
-bananavvv
-cherryvvv
-peachvvv
+banana
+cherry
+peach
