@@ -4,3 +4,6 @@ chocolate
 cookie
 popcorn
 muffins
+nori
+oreo
+pork dry
