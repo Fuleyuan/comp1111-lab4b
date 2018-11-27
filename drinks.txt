@@ -4,6 +4,6 @@ coffee
 cola
 soda water
 juice
-applejuice
-orangejuice
-lemonjuicevvv
+apple juice
+orange juice
+lemon juice
