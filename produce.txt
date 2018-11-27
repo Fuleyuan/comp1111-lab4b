@@ -1,3 +1,9 @@
 computer
 water dispenser
 lamp
+phone
+computer
+TV
+computer
+bulb
+refrigerator
