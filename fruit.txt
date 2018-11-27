@@ -4,3 +4,6 @@ strawberry
 banana
 cherry
 peach
+watermelon
+grapes
+lemon
